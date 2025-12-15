@@ -1,4 +1,4 @@
-# KRATEK OPIS ✍️
+# Kratek opis ✍️
 
 To je opis ustvarjanja mojega GitHub profila in učenje osnov GitHub-a.
 
