@@ -10,5 +10,5 @@ To je opis ustvarjanja mojega GitHub profila in učenje osnov GitHub-a.
 
 # Zabavna stvar o meni:
 
-  - Trenutno se učim glasbeno teorijo za že zadnje 4 mesece!
+  - Trenutno se učim glasbeno teorijo za že zadnje 4 mesece! 🎼
 
